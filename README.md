@@ -10,7 +10,7 @@ trimal/Gblocks -> clean and trim the alignment\
 iqtree-omp -> create tree \
 HYPHYMP -> Datamonkey
 
-Table of Contents:\
+You will need:\
  Positive_Selection.sh - main script\
  *_batch.bf  - additional files for PS testes
  
